@@ -13,9 +13,9 @@ Instructions:
 4. Add an example using character comparison ('A' < 'a') and explain why.
 
 Guide Questions:
-● What data types can be compared using relational operators?
-● How does ASCII value affect character comparisons?
-● Why does C++ return 1 for true and 0 for false?
+- What data types can be compared using relational operators?
+- How does ASCII value affect character comparisons?
+- Why does C++ return 1 for true and 0 for false?
 
 
 
@@ -28,8 +28,8 @@ Instructions:
 3. Display a message only if the number is positive.
 
 Guide Questions:
-● What happens if the input is 0 or negative?
-● How does the program decide whether to execute the statement?
+- What happens if the input is 0 or negative?
+- How does the program decide whether to execute the statement?
 
 
 
@@ -42,8 +42,8 @@ Instructions:
 3. Display “Pass” if the grade is ≥ 75, otherwise “Fail.”
 
 Guide Questions:
-● What happens if you remove the else part?
-● Can you nest another if inside this structure?
+- What happens if you remove the else part?
+- Can you nest another if inside this structure?
 
 
 
@@ -57,8 +57,8 @@ Instructions:
 2. Use braces {} to create a block of statements.
 
 Guide Questions:
-● What error occurs if braces are omitted?
-● Why are compound statements useful in decision-making?
+- What error occurs if braces are omitted?
+- Why are compound statements useful in decision-making?
 
 
 
@@ -74,8 +74,8 @@ Instructions:
     ○ Below 75 → Fail
 
 Guide Questions:
-● How does nesting differ from a simple if-else chain?
-● What’s the advantage of using nested conditions?
+- How does nesting differ from a simple if-else chain?
+- What’s the advantage of using nested conditions?
 
 
 
@@ -91,8 +91,8 @@ Instructions:
 2. Based on user choice, perform the corresponding calculation.
 
 Guide Questions:
-● What happens if you omit a break statement?
-● When would you prefer a switch over nested ifs?
+- What happens if you omit a break statement?
+- When would you prefer a switch over nested ifs?
 
 
 
